@@ -36,6 +36,7 @@ A frontend-driven **Activity Tracker** that uses **Google Sheets as a backend** 
 | **Backend** | Google Apps Script (Web App API) |
 | **Database** | Google Sheets |
 | **Tools/APIs** | Chart.js, LocalStorage |
+| **Google Technologies** | Firebase, Gemini, Antigravity |
 
 ---
 
