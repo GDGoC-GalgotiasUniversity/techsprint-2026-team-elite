@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y9iW-vs6)
-# 🚀 [Project Name]
-### Team: [Your Team Name]
-> *A one-sentence tagline or slogan for your project goes here.*
+# 🚀 Activity Tracker Web Application  
+### Team: Elite       
+> *A lightweight, serverless web app to track daily habits, visualize progress, and build long-term consistency.*
 
 ---
 
@@ -9,22 +8,23 @@
 
 | Name | Role | Email |
 | :--- | :--- | :--- |
-| **[Name]** | Team Lead | [Email] |
-| **[Name]** | Member | [Email] |
-| **[Name]** | Member | [Email] |
+| **Priyanshu** | Team Lead | priyanshujangra619@gmail.com |
+| **Rishank Gupta** | Member | rishankgupta567@gmail.com |
 
 ---
 
 ## 🎯 Problem Statement
-*Describe the specific pain point or challenge here (Keep it under 3 lines).*
-* **Context:** [Why is this a problem?]
-* **Impact:** [Who suffers from this?]
+Many students and individuals struggle to maintain consistency in daily habits due to lack of simple tracking and visual feedback.
+* **Context:** Existing habit trackers are complex, paid, or require heavy backend setups.
+* **Impact:** Users lose motivation, fail to track progress, and abandon habits early.
+
+---
 
 ## 💡 Solution
-*Describe your approach and how it solves the problem.*
-1.  **Key Point 1:** [Description]
-2.  **Key Point 2:** [Description]
-3.  **Key Point 3:** [Description]
+A frontend-driven **Activity Tracker** that uses **Google Sheets as a backend** to track activities month-wise and visualize progress.
+1. **Simple Daily Tracking:** Checkbox-based activity logging for each day of the month.
+2. **Automatic Calculations:** Counts and streaks are computed dynamically on the frontend.
+3. **Visual Progress:** Interactive line charts to show completion trends.
 
 ---
 
@@ -32,28 +32,29 @@
 
 | Category | Technologies Used |
 | :--- | :--- |
-| **Frontend** | React, Tailwind, Vite |
-| **Backend** | Node.js, Express, Python |
-| **Database** | MongoDB, PostgreSQL |
-| **Tools/APIs** | Docker, OpenAI API, AWS |
+| **Frontend** | HTML5, CSS3 (Glassmorphism UI), JavaScript (Vanilla JS) |
+| **Backend** | Google Apps Script (Web App API) |
+| **Database** | Google Sheets |
+| **Tools/APIs** | Chart.js, LocalStorage |
 
 ---
 
 ## 📊 MVP Features
-- [x] **Feature 1:** [Brief description]
-- [x] **Feature 2:** [Brief description]
-- [ ] **Feature 3:** [Brief description - In Progress]
+- [x] **Month-wise Activity Tracking:** Track habits using daily checkboxes.
+- [x] **Automatic Count Calculation:** Dynamic COUNT without manual updates.
+- [x] **Progress Visualization:** Line chart showing daily completion percentage.
+- [ ] **Weekly Summary View:** *(Planned enhancement)*
 
 ---
 
 ## 🔗 Links & Demo
-- **🌐 Live Site:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **📂 GitHub Repo:** [Link to Repo]
-- **📹 Video Demo:** [Link to Video]
+- **🌐 Live Site:** Hosted via GitHub Pages / Netlify / Vercel  
+- **📂 GitHub Repo:** [Add Repository Link Here]  
+- **📹 Video Demo:** [Add Video Link Here]
 
 > **Testing Credentials**
-> * **User:** `user@demo.com`
-> * **Pass:** `hack2026`
+> * **User:** `xyz@gmail.com`
+> * **Pass:** `qwerty`
 
 ---
 
